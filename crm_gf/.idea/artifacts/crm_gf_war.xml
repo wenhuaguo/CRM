@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="crm_gf:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="crm_gf.war">
+    <root id="archive" name="crm_gf-1.0.war">
       <element id="artifact" artifact-name="crm_gf:war exploded" />
     </root>
   </artifact>
